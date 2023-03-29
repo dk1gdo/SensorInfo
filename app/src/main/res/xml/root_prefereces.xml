@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_common">
+
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/coloursArray"
+            android:entryValues="@array/valuesArray"
+            android:key="selected"
+            android:title="@string/color_pref" />
+    </PreferenceCategory>
+</PreferenceScreen>

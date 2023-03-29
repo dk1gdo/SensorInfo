@@ -5,4 +5,9 @@
         <item>Yellow</item>
         <item>Green</item>
     </array>
+    <string-array name="valuesArray">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
 </resources>
